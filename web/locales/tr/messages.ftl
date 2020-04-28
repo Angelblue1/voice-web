@@ -380,10 +380,18 @@ faq-search-for-answers =
 ## ABOUT US
 
 about-title = Neden Common Voice?
+about-subtitle = Common Voice, Mozilla'nın makinelere gerçek insanların nasıl konuştuğunu öğretme girişiminin bir parçasıdır. Common Voice veri kümesine ek olarak, Deep Speech adlı açık kaynaklı bir konuşma tanıma motoru da geliştiriyoruz.
+about-header-description = Bu projelerin her ikisi de dijital konuşma ayrımını kapatma çabalarımızın bir parçası. Ses tanıma teknolojileri cihazlarımıza insani bir boyut kazandırır, ancak geliştiricilerin bunları oluşturmak için çok büyük miktarda ses verisine ihtiyaçları vardır. Şu anda, bu verilerin çoğu pahalı ve tescilli.
+    Ses verilerini özgürce ve herkese açık hale getirmek ve verilerin gerçek insanların çeşitliliğini temsil ettiğinden emin olmak istiyoruz. Birlikte ses tanımayı herkes için daha iyi hale getirebiliriz.
+
 how-does-it-work-title = Nasıl çalışıyor?
+how-does-it-work-text = Açık kaynaklı bir ses veri kümesini topluyoruz. Sesinizi bağışlayın, diğer kişilerin kliplerinin doğruluğunu doğrulayın, veri kümesini herkes için daha iyi hale getirin.
+
 about-speak = Konuş
 about-speak-text = Katkıda bulunanlar ses kayıtlarını bağışlanan cümle bankasından okuyarak kaydederler.
 about-listen-queue = Dinleme Kuyruğu
+about-listen-queue-text = Ses klipleri onları dinlemek için hazırlayan bir gönderme kuyruğuna girilir.
+
 about-listen = Dinle
 about-listen-text = Kullanıcılar, konuşmacıların cümleyi doğru okuduğunu kontrol ederek bağışlanan kayıtların doğruluğunu onaylar.
 about-is-it-valid = Klip geçerli mi?
@@ -393,6 +401,8 @@ about-yes-votes-text = Common Voice veri kümesine girebilmesi için bir ses kay
 about-no-votes = Hayır oyları ≥ 2
 about-no-votes-text = Bir kullanıcı ses kaydını reddettiğinde kayıt kuyruğa geri döner. Eğer ikinci defa reddedilirse ses kaydı Kayıt Mezarlığı'na taşınır.
 about-dataset-new = Common Voice Veri Kümesi
+about-dataset-new-text = Ortak Ses Veri Kümesi, geliştiricilerin ses tanıma araçları oluşturmasına yardımcı olan yüz binlerce ses örneği içerir.
+
 about-clip-graveyard = Kayıt Mezarlığı
 about-clip-graveyard-text = Kayıt Mezarlığı, Common Voice veri kümesine girmeyen ses kayıtlarından oluşur. Veri kümesi gibi Kayıt Mezarlığı da indirilebilir.
 about-partners = İş ortakları
